@@ -1,9 +1,9 @@
 # Hi, I'm Melanie 👋🏾  
-**Health Data Scientist | Epidemiologist** [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:melomondi@gmail.com)
+**Health Data Scientist | Epidemiologist** 
 
 Dedicated to enhancing global health systems through infectious disease research, bioinformatics, and health data science. I combine analytical precision with systems-level thinking to uncover patterns, inform policy, and enhance population health outcomes.
 
-## 🧠 Current Focus  
+## Current Focus  
 - 📊 Exploring mixed-methods research for complex public health challenges. 
 - 🔬 Learning bioinformatics and pathogen genomics to support surveillance systems.   
 - 📈 Strengthening skills in inferential statistics, R, Python, and data visualization.  
@@ -15,5 +15,7 @@ Dedicated to enhancing global health systems through infectious disease research
 ## 📈 GitHub Stats  
 ![Melanie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melanie331&show_icons=true&theme=catpuccin_latte)
 
+## Connect with Me  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:melomondi@gmail.com)
 
 > _“I believe in a world where public health systems are not just reactive, but proactive, data-informed, and inclusive.”_
