@@ -10,7 +10,7 @@ Dedicated to enhancing global health systems through infectious disease research
 
 My current focus lies in exploring mixed-methods research for complex public health challenges and investigating health equity through data-driven insights, while strengthening my skills in inferential statistics, R, Python, and data visualisation. I aim to expand my knowledge and expertise in bioinformatics and pathogen genomics to support the development and implementation of effective surveillance systems in Africa.
 
- ![View Resume](https://drive.google.com/file/d/1Y0LwQpWmP2cJKf14tRR0Os4oCtPaT8SR/view?usp=drive_link)
+[View Resume](https://drive.google.com/file/d/1Y0LwQpWmP2cJKf14tRR0Os4oCtPaT8SR/view?usp=drive_link)
   
 ## 💻 Languages and tools
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-FFCC00?logo=mysql&logoColor=black)  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)  
