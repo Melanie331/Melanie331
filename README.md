@@ -2,13 +2,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-omondi)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:melomondi@gmail.com)  
 
-Dedicated to enhancing global health systems through infectious disease research and health data science. I combine analytical precision with systems-level thinking to uncover patterns and enhance population health outcomes.
+Dedicated to enhancing global health systems through population health research and health data science. I combine analytical precision with systems-level thinking to uncover patterns and enhance public health outcomes.
 
   - I have 4 years of experience in conducting epi research, data analytics and implementing primary health care projects in Africa.
   - Currently serving as a Section Editor invited by the Journal of Public Health in Africa (JPHIA), Africa CDC.
   - Key achievement: Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020.
 
-My current focus lies in expanding my knowledge and expertise in bioinformatics and pathogen genomics to support the development and implementation of effective surveillance systems in Africa.
+My current focus lies in expanding my knowledge and expertise in bioinformatics and molecular epidemiology to support the development of genomic-informed disease surveillance systems and strengthen data-driven public health response strategies in Africa.
 
 [View Resume](https://drive.google.com/file/d/1Y0LwQpWmP2cJKf14tRR0Os4oCtPaT8SR/view?usp=drive_link)
   
