@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melanie-omondi)  [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:melomondi@gmail.com)  
 
-Dedicated to enhancing global health systems through infectious disease research, bioinformatics, and health data science. I combine analytical precision with systems-level thinking to uncover patterns, inform policy, and enhance population health outcomes.
+Dedicated to enhancing global health systems through infectious disease research, bioinformatics, and health data science. I combine analytical precision with systems-level thinking to uncover patterns and enhance population health outcomes.
 
   - I have 4 years of experience in conducting epi research, data analytics and implementing primary health care projects in Africa.
   - Currently serving as a Section Editor invited by the Journal of Public Health in Africa (JPHIA), Africa CDC.
