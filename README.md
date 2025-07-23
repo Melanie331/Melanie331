@@ -20,7 +20,7 @@ My current focus lies in expanding my knowledge and expertise in bioinformatics 
 |------------------------------------------------------|------------|--------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | [Climate Change Health Impacts in Africa BI Dashboard (2014 -2024)](https://github.com/Melanie331/climate_change_health_dashboard) | 2024  | Oath For Sustainability Network (OFSN) | Analyzed climate-related health data across 54 African countries to develop a dashboard. | Secured funding for a curriculum projected to impact 50,000+ children across Africa. |
 | [Regional ILI Surveillance in Kenya (2023-2024)](https://github.com/Melanie331/ili_surveillance_kenya) | 2025  | Center for Epidemiological Modelling and Analysis (CEMA) | Analyzed temporal influenza-like illness patterns across Kenyan sub-counties using Python. | Informed IPC strategies for more effective disease resource allocation and prevention. |
-| Enhancing Primary Health Care Access in Nairobi, Kenya | 2025  | Dalberg Data Insights (DDI) | Conducted spatial analysis of health facilities to assess service availability across Nairobi. | Helped improve planning for equitable primary health service distribution in Nairobi County. |
+| [Enhancing Primary Health Care Access in Nairobi, Kenya](https://github.com/Melanie331/enhancing_healthcare_nairobi) | 2025  | Dalberg Data Insights (DDI) | Conducted spatial analysis of health facilities to assess service availability across Nairobi. | Helped improve planning for equitable primary health service distribution in Nairobi County. |
   
 
 ## 📈 GitHub Stats  
