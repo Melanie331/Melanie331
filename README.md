@@ -9,6 +9,8 @@ Dedicated to enhancing global health systems through population health research 
   - Key achievement: Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020.
 
 My current focus lies in expanding my knowledge and expertise in bioinformatics and molecular epidemiology to support the development of genomic-informed disease surveillance systems and strengthen data-driven public health response strategies in Africa.
+
+[View resume](https://drive.google.com/file/d/1MU0ie9taU_8KslU9e2tkPy6KDQtPbJWL/view?usp=sharing)
   
 ## 💻 Languages and tools
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-FFCC00?logo=mysql&logoColor=black)  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)  
