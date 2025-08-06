@@ -4,9 +4,9 @@
 
 Dedicated to enhancing global health systems through population health research and health data science. I combine analytical precision with systems-level thinking to uncover patterns and enhance public health outcomes.
 
-  - I have 4 years of experience in conducting epi research, data analytics and implementing primary health care projects in Africa.
+  - I have 4 years of experience conducting epi research, data analytics and implementing primary health care projects in Africa.
   - Currently serving as a Section Editor invited by the Journal of Public Health in Africa (JPHIA), Africa CDC.
-  - Key achievement: Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020.
+  - Key achievements: Founder of Health Data Labs Africa (HDLA) and previously a Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020.
 
 My current focus lies in expanding my knowledge and expertise in bioinformatics and molecular epidemiology to support the development of genomic-informed disease surveillance systems and strengthen data-driven public health response strategies in Africa.
 
