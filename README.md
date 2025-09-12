@@ -4,14 +4,14 @@
 
 Dedicated to enhancing global health systems through population health research and health data science. I combine analytical precision with systems-level thinking to uncover patterns and enhance public health outcomes.
 
-  - I have 4 years of experience conducting epi research, data analytics and implementing primary health care projects in Africa.
-  - Currently serving as a Section Editor invited by the Journal of Public Health in Africa (JPHIA), Africa CDC.
-  - Key achievements:
-  ### Collaborated in continental research identifying environmental determinants associated with climate-induced migration on cholera outbreaks in Eastern and Southern Africa, and accepted as a poster presentation in the Climate and Health Africa Conference, Harare, Zimbabwe, 2024 and submitted for publication in relevant scientific journals. [Manuscript](https://drive.google.com/file/d/1f60_ivI9HG_CEfRP-RXiSjj_KRkQaYTo/view?usp=sharing)
-  #### Collaborated in compiling a policy brief exploring the impact of Infectious Diseases and Control Primary Health Care Interventions among the Economic Community of West African States and providing targeted interventions. [Policy Brief](https://drive.google.com/file/d/1N51JjL3RWHZZeEwnjRNio9x3MrtdfvEl/view?usp=sharing)
-  ### Designed a Climate and Population Health Impacts Dashboard to investigate climate health impacts on Africa's population health as an affiliation with The Teach Climate for Health Africa Project under Oath For Sustainability Network [Climate Change Health Impacts in Africa BI Dashboard (2014 -2024)](https://github.com/Melanie331/climate_change_health_dashboard)
-  ### Previously a Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020.
-
+- I have 4 years of experience conducting epi research, data analytics and implementing primary health care projects in Africa.
+- Currently serving as a Section Editor invited by the Journal of Public Health in Africa (JPHIA), Africa CDC.
+- Key achievements:
+  - Collaborated in continental research identifying environmental determinants associated with climate-induced migration on cholera outbreaks in Eastern and Southern Africa, and accepted as a poster presentation in the Climate and Health Africa Conference, Harare, Zimbabwe, 2024 and submitted for publication in relevant scientific journals. [Manuscript](https://drive.google.com/file/d/1f60_ivI9HG_CEfRP-RXiSjj_KRkQaYTo/view?usp=sharing)
+  - Collaborated in compiling a policy brief exploring the impact of Infectious Diseases and Control Primary Health Care Interventions among the Economic Community of West African States and providing targeted interventions. [Policy Brief](https://drive.google.com/file/d/1N51JjL3RWHZZeEwnjRNio9x3MrtdfvEl/view?usp=sharing)
+  - Designed a Climate and Population Health Impacts Dashboard to investigate climate health impacts on Africa's population health as an affiliation with The Teach Climate for Health Africa Project under Oath For Sustainability Network [Climate Change Health Impacts in Africa BI Dashboard (2014 -2024)](https://github.com/Melanie331/climate_change_health_dashboard)
+  - Previously a Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020.
+    
 My current focus lies in designing, conducting and managing population health research studies.
 
 [View resume](https://drive.google.com/file/d/1w0_ScvPHsiN4AmjTYvi_trnB_Gpthyqg/view?usp=drive_link)
