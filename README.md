@@ -5,7 +5,7 @@
 Dedicated to enhancing global health systems through population health research and health data science. I combine analytical precision with systems-level thinking to uncover patterns and enhance public health outcomes.
 
 - I have 4 years of experience conducting epi research, data analytics and implementing primary health care projects in Africa.
-- Currently serving as a Section Editor invited by the Journal of Public Health in Africa (JPHIA), Africa CDC.
+- Currently serving as a Section Editor, Journal of Public Health in Africa (JPHIA), Recent Trends in Traditional Medicine, Health Research, and Development, invited by Dr. Nebiyu Dereje Abebe, the Editor-in-Chief. [Editorial Team Members](https://publichealthinafrica.org/index.php/jphia/pages/view/editorial-team)
 - Key achievements:
   
   - Collaborated in continental research identifying environmental determinants associated with climate-induced migration on cholera outbreaks in Eastern and Southern Africa through the Climate For Health Research Lab Fellowship at Oath For Sustainability Network. The study was accepted as a poster presentation at the Climate and Health Africa Conference in Harare, Zimbabwe, in 2024, and is currently submitted for publication in relevant scientific journals. [Manuscript](https://drive.google.com/file/d/1f60_ivI9HG_CEfRP-RXiSjj_KRkQaYTo/view?usp=sharing)
