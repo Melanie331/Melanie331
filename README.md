@@ -9,13 +9,13 @@ Dedicated to enhancing global health systems through population health research 
 - Key achievements:
   
   - Collaborated in continental research identifying environmental determinants associated with climate-induced migration on cholera outbreaks in Eastern and Southern Africa through the Climate For Health Research Lab Fellowship at Oath For Sustainability Network. The study was accepted as a poster presentation at the Climate and Health Africa Conference in Harare, Zimbabwe, in 2024, and is currently submitted for publication in relevant scientific journals. [Manuscript](https://drive.google.com/file/d/1f60_ivI9HG_CEfRP-RXiSjj_KRkQaYTo/view?usp=sharing)
-  - Collaborated in compiling a policy brief exploring the impact of Infectious Diseases and Control Primary Health Care Interventions among the Economic Community of West African States (ECOWAS) and providing targeted interventions under the West African Institute of Public Health Internship, Academy of Public Health. [Policy Brief](https://drive.google.com/file/d/1N51JjL3RWHZZeEwnjRNio9x3MrtdfvEl/view?usp=sharing)
+  - Collaborated in compiling a policy brief exploring the impact of Infectious Diseases and Control Primary Health Care Interventions among the Economic Community of West African States (ECOWAS) and providing targeted interventions under the West African Institute of Public Health Internship, Academy of Public Health. [Policy Brief](https://drive.google.com/file/d/1Wbd5ObvN2YnZMLkV8YV-p0dz7WtYPW6v/view?usp=drive_link)
   - Designed a Climate Change and Population Health Impacts Dashboard to investigate climate health impacts on Africa's population health as an affiliation with The Teach Climate for Health Africa Project under Oath For Sustainability Network [CCPHI BI Dashboard](https://github.com/Melanie331/climate_change_health_dashboard)
   - Previously a Committee Chair in the Sub-Saharan African International Model United Nations (SAIMUN), 2020, leading caucus proceedings of delegates in the Disarmament and International Security Council (DISEC). [SAIMUN Chair Certificate](https://drive.google.com/file/d/1FPFaZnjoBv8M9xQetAxO_rVdPSUMdjr6/view?usp=drive_link)
     
 My current focus lies in designing, conducting and managing population health projects and research studies.
 
-[View resume](https://drive.google.com/file/d/1HPcZH_F4f-LkoKD_x0CF82N1d47NpjaB/view?usp=drive_link)
+[View resume](https://drive.google.com/file/d/1EuTnL4wZbdRIAaFoFXb5jy3eRuJOTAIi/view?usp=drive_link)
   
 ## 💻 Languages and tools
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-FFCC00?logo=mysql&logoColor=black)  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)  ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)  ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)  
